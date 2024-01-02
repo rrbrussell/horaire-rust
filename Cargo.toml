@@ -6,6 +6,8 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+fork = "0.1.22"
+rust-ini = "0.20.0"
 
 [dependencies.chrono]
 version = "~0.4"
